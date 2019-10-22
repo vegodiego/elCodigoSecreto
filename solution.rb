@@ -1,5 +1,5 @@
 require "sinatra"
 
 get "/" do
-	"HcUy6Re2LLBRtj"  
+    "HcUy6Re2LLBRtj"  
 end
